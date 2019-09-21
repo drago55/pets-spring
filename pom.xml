@@ -8,7 +8,7 @@
 		<version>2.1.8.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.animal</groupId>
+	<groupId>com.animal.pets</groupId>
 	<artifactId>pets</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>pets</name>
@@ -16,6 +16,7 @@
 
 	<properties>
 		<java.version>12</java.version>
+		<maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>
 	</properties>
 
 	<dependencies>
