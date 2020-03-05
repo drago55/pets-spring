@@ -15,7 +15,7 @@
 	<description>This is application for finding and adopting pets, this app is intended for animal shelters. </description>
 
 	<properties>
-		<java.version>12</java.version>
+		<java.version>11</java.version>
 		<maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>
 	</properties>
 
